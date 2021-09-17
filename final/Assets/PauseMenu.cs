@@ -36,6 +36,7 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f;
         GameIspause = false;
         Cursor.visible = false;
+        
     }
     void Pause()
     {
@@ -43,6 +44,7 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 0f;
         GameIspause = true;
         Cursor.visible = true;
+        
     }
     public void loadMenu()
     {
