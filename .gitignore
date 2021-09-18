@@ -58,3 +58,18 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+<<<<<<< Updated upstream
+=======
+# Windows
+Thumbs.db
+Thumbs.db.meta
+
+# MacOS
+*.DS_Store
+
+# VS Code
+*.vscode
+ProjectSettings/EditorBuildSettings.asset
+Assets/Scenes/MainMenu.unity
+Assets/Scenes/MainMenu.unity.meta
+>>>>>>> Stashed changes
