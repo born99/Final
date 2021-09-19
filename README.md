@@ -1,4 +1,4 @@
-# CS427_Final - FALL NINJA <img src="https://github.com/born99/CS427_Midterm/blob/master/Poster.png" width="325" align="right">
+# CS427_Final - FALL NINJA <img src="https://github.com/born99/Final/blob/master/poster.png" width="325" align="right">
 ## Authors - Group 9 - 'Wakanda'
  1. [Nguyen Minh Quan](https://github.com/zxquan123) &emsp;&ensp; - 1751097     
  2. [Nguyen Minh Nhat](https://github.com/born99) &emsp;&ensp;&nbsp; - 1751090
@@ -43,10 +43,10 @@ The top right corner is the time (and the score) you survive.
 
 
 ## How to play
-* <kbd> **A** </kbd> or <kbd> **🠦** </kbd>   : Move left
-* <kbd> **D** </kbd> or <kbd> **🠤** </kbd>     : Move right
-* <kbd> **W** </kbd> or <kbd> **↑** </kbd>     : Move forward
-* <kbd> **S** </kbd> or <kbd> **↓** </kbd>     : Move backward
+* <kbd> **A** </kbd> : Move left
+* <kbd> **D** </kbd> : Move right
+* <kbd> **W** </kbd> : Move forward
+* <kbd> **S** </kbd> : Move backward
 * <kbd>	**Spacebar** </kbd>&emsp;&nbsp;&ensp;        : Jump
 * <kbd> **Esc** </kbd>&emsp;&emsp;&emsp;&emsp;&ensp;   : Pause
 
@@ -66,5 +66,5 @@ The top right corner is the time (and the score) you survive.
 ## Resource references
 * [Sound Effect & Music](https://freesound.org/) 
 * https://www.youtube.com/watch?v=zc8ac_qUXQY
-* [Character]: https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954?fbclid=IwAR0oP8UP45kKo302u5CjC3FolZ6g2Sy6Du6fLulY1apQ99wN-3aEyIGlJyw
+* [Character](https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954?fbclid=IwAR0oP8UP45kKo302u5CjC3FolZ6g2Sy6Du6fLulY1apQ99wN-3aEyIGlJyw)
 * 
