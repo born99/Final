@@ -14,23 +14,22 @@
 
 
 ## Story
-* To bring the inspiration for everybody around us to be motivated for preventing Covid-19, we create a wonderful name called “Quarantine”. 
-* The game operation is quite simple, the doctor is on his way to bring vaccines to citizens, and he must dodge any viruses coming to avoid being infected, the longer he survives, the higher score you can get. 
-* The idea behind this “Endless Runner Game” is to raise the awareness of people: _“You could be infected someday unless you stay at home”_. The game also extends our appreciations and thanks to the doctors who are doing their best fighting to viruses, despite the risk to save our world.
+* To bring the inspiration for everybody around us to be active after a long time lockdown due to Covid-19, we create a wonderful game called “Fall Ninja”. 
+* The game operation is quite simple, the ninja is on his way to deliver a secret message to his master, and he must dodge any obstacles coming to avoid being caught, the more obstacle he dodge, the higher score you can get. 
 
 ## Gameplay
 
 * To downoad/clone the project
 ```
-git clone https://github.com/born99/CS427_Midterm.git
+git clone https://github.com/born99/Final.git
 ```
 * Go to the Build and Run folder
 ```
-cd '.\CS427_Midterm\Build and Run\'
+cd '.\Final\Build and Run\'
 ```
 * Run file .exe and play
 ```
-./CS427_Midterm.exe
+./Final.exe
 ```
 <br /><br />
 * You control the docter and help him to dodge as much viruses as possible. The longer time he survives, the more he can help people.
@@ -67,4 +66,4 @@ The top right corner is the time (and the score) you survive.
 * [Sound Effect & Music](https://freesound.org/) 
 * https://www.youtube.com/watch?v=zc8ac_qUXQY
 * [Character](https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954?fbclid=IwAR0oP8UP45kKo302u5CjC3FolZ6g2Sy6Du6fLulY1apQ99wN-3aEyIGlJyw)
-* 
+* [Animation](https://www.mixamo.com/?fbclid=IwAR0Jr4y6BVNQid3vFFC3gwlm0laZ_ub4AKDe9s14fkOIvlKR_SqFOQPkBwk#/?page=1&query=ninza+run)
