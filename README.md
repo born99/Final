@@ -1,4 +1,4 @@
-# CS427_Final - FALL NINJA <img src="https://github.com/born99/Final/blob/master/poster_final_2.png" width="325" align="right">
+# CS427_Final - FALL NINJA <img src="https://github.com/born99/Final/blob/master/Poster_final.png" width="325" align="right">
 ## Authors - Group 9 - 'Wakanda'
  1. [Nguyen Minh Quan](https://github.com/zxquan123) &emsp;&ensp; - 1751097     
  2. [Nguyen Minh Nhat](https://github.com/born99) &emsp;&ensp;&nbsp; - 1751090
@@ -34,7 +34,7 @@ cd '.\Final\Build and Run\'
 <br /><br />
 * You control the ninja and help him to dodge as many obstacles as possible. The more obstacles he dodge, the faster he can deliver the message.
 <br />
-<img src="https://github.com/born99/Final/blob/master/gameplay.png" width="960" align="center">
+<img src="https://github.com/born99/Final/blob/master/gameplay_final.png" width="960" align="center">
 
 
 ## How to play

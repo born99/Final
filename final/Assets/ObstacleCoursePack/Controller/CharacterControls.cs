@@ -5,7 +5,8 @@ using System.Collections;
 [RequireComponent (typeof (CapsuleCollider))]
 
 public class CharacterControls : MonoBehaviour {
-	
+
+	AudioSource run;
 	public float speed = 10.0f;
 	public float airVelocity = 8f;
 	public float gravity = 10.0f;
@@ -36,6 +37,8 @@ public class CharacterControls : MonoBehaviour {
 		distToGround = GetComponent<Collider>().bounds.extents.y;
 		anim = GetComponent<Animator>();
 		soundGenerator = GetComponent<FootStepGenerator>();
+		run = GetComponent<AudioSource>();
+		
 	}
 	
 	bool IsGrounded (){
@@ -57,6 +60,7 @@ public class CharacterControls : MonoBehaviour {
 			if (moveDir.x != 0 || moveDir.z != 0)
 			{
 				anim.SetBool("run", true);
+				run.Play();
 				Vector3 targetDir = moveDir; //Direction of the character
 
 				targetDir.y = 0;
