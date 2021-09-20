@@ -28,10 +28,14 @@ public class CharacterControls : MonoBehaviour {
 	public Vector3 checkPoint;
 	private bool slide = false;
 
+	[SerializeField] FootStepGenerator soundGenerator;
+	[SerializeField] float footStepTimer;
+
 	void  Start (){
 		// get the distance to ground
 		distToGround = GetComponent<Collider>().bounds.extents.y;
 		anim = GetComponent<Animator>();
+		soundGenerator = GetComponent<FootStepGenerator>();
 	}
 	
 	bool IsGrounded (){
@@ -65,7 +69,9 @@ public class CharacterControls : MonoBehaviour {
 			else
             {
 				anim.SetBool("run", false);
-            }
+				
+				soundGenerator.audioSource.Stop();
+			}
 
 			if (IsGrounded())
 			{
