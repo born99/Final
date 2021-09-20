@@ -1,4 +1,4 @@
-# CS427_Final - FALL NINJA 
+# CS427_Final - FALL NINJA <img src="https://github.com/born99/Final/blob/master/poster_final_2.png" width="325" align="right">
 ## Authors - Group 9 - 'Wakanda'
  1. [Nguyen Minh Quan](https://github.com/zxquan123) &emsp;&ensp; - 1751097     
  2. [Nguyen Minh Nhat](https://github.com/born99) &emsp;&ensp;&nbsp; - 1751090
@@ -36,9 +36,7 @@ cd '.\Final\Build and Run\'
 <br />
 <img src="https://github.com/born99/CS427_Midterm/blob/master/Gameplay.png" width="960" align="center">
 
-* (As you can see from the pictures above, there are 3 “heart” icon represents 3 HP, once it becomes 0, you will lose the game.
-The top right corner is the time (and the score) you survive.
-* Try to avoid all viruses, hit the black viruses, you will lose 2 HP, hit the new-created viruses, you lose 1 HP.)
+
 
 
 ## How to play
@@ -50,11 +48,7 @@ The top right corner is the time (and the score) you survive.
 * <kbd> **Esc** </kbd>&emsp;&emsp;&emsp;&emsp;&ensp;   : Pause
 
 ## Applications/Techniques
-* (As for the gameplay feature, we provide an endless runner gameplay. We set a looping background and ground to with different scroll speed to run endlessly on a “parallax” scene. We set up a difficulty-increasing scene instead of building a two-leveled game. The longer you can survive, the more/faster new viruses are spawned.
-* The effects are created using particle system.
-* We manage to minimize the hitbox while dashing.
-* Most of the character are designed by us ourselves with meaningful purposes.
-* Multiple resolutions available with sound effects controls)
+* Mostly using free assets, the technique in this project does not have many highlights.
 
 ## Demo 
 * [Youtube Demo](https://www.youtube.com/watch?v=jn3pMAl4tV0)
