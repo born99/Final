@@ -60,3 +60,4 @@ cd '.\Final\Build and Run\'
 * [Character](https://assetstore.unity.com/packages/3d/characters/low-character-pack-free-sample-192954?fbclid=IwAR0oP8UP45kKo302u5CjC3FolZ6g2Sy6Du6fLulY1apQ99wN-3aEyIGlJyw)
 * [Animation](https://www.mixamo.com/?fbclid=IwAR0Jr4y6BVNQid3vFFC3gwlm0laZ_ub4AKDe9s14fkOIvlKR_SqFOQPkBwk#/?page=1&query=ninza+run)
 * [Obstacles Course](https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169?fbclid=IwAR3uXZWEZmB7QK3cDxU6gF2Ch5wYOWELIU2DtxxGMofC-SOc_7y8rGNJgU4)
+* [Standard Asset](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
