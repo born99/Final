@@ -15,7 +15,7 @@
 
 ## Story
 * To bring the inspiration for everybody around us to be active after a long-time lockdown due to Covid-19, we create a wonderful game called “Fall Ninja”. 
-* The game operation is quite simple, the ninja is on his way to deliver a secret message to his master, and he must dodge any obstacles coming to avoid being caught, the more obstacle he dodges, the higher score you can get. 
+* The game objective is quite simple, the ninja is on his way to deliver a secret message to his master, and he must dodge any obstacles coming to avoid being caught, the more obstacle he dodges, the higher score you can get. 
 
 ## Gameplay
 
@@ -34,9 +34,7 @@ cd '.\Final\Build and Run\'
 <br /><br />
 * You control the ninja and help him to dodge as many obstacles as possible. The more obstacles he dodge, the faster he can deliver the message.
 <br />
-<img src="https://github.com/born99/CS427_Midterm/blob/master/Gameplay.png" width="960" align="center">
-
-
+<img src="https://github.com/born99/Final/blob/master/gameplay.png" width="960" align="center">
 
 
 ## How to play
@@ -45,7 +43,7 @@ cd '.\Final\Build and Run\'
 * <kbd> **W** </kbd> : Move forward
 * <kbd> **S** </kbd> : Move backward
 * <kbd>	**Spacebar** </kbd>&emsp;&nbsp;&ensp;        : Jump
-* <kbd> **Esc** </kbd>&emsp;&emsp;&emsp;&emsp;&ensp;   : Pause
+* <kbd> **Esc** </kbd>&emsp;&emsp;&emsp;&emsp;&ensp;   : Pause & Menu
 
 ## Applications/Techniques
 * Mostly using free assets, the technique in this project does not have many highlights.
