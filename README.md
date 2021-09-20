@@ -61,3 +61,4 @@ cd '.\Final\Build and Run\'
 * [Animation](https://www.mixamo.com/?fbclid=IwAR0Jr4y6BVNQid3vFFC3gwlm0laZ_ub4AKDe9s14fkOIvlKR_SqFOQPkBwk#/?page=1&query=ninza+run)
 * [Obstacles Course](https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169?fbclid=IwAR3uXZWEZmB7QK3cDxU6gF2Ch5wYOWELIU2DtxxGMofC-SOc_7y8rGNJgU4)
 * [Standard Asset](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
+* [Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
