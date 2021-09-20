@@ -34,7 +34,7 @@ cd '.\Final\Build and Run\'
 <br /><br />
 * You control the ninja and help him to dodge as many obstacles as possible. The more obstacles he dodge, the faster he can deliver the message.
 <br />
-<img src="https://github.com/born99/Final/blob/master/gameplay.png" width="960" align="center">
+<img src="https://github.com/born99/Final/blob/master/gameplay_final.png" width="960" align="center">
 
 
 ## How to play
