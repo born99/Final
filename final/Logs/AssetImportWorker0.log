@@ -15,11 +15,19 @@ C:/Users/quang/Documents/GitHub/Final/final
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
+64760
+Successfully changed project path to: C:/Learning/SeniorYear/Game/test/FallGuys/Final/final
+C:/Learning/SeniorYear/Game/test/FallGuys/Final/final
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 321.32 ms, found 2 plugins.
+=======
 56951
 Successfully changed project path to: C:/Users/quang/Documents/GitHub/Final/final
 C:/Users/quang/Documents/GitHub/Final/final
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 39.60 ms, found 2 plugins.
+>>>>>>> 247552f1d8a777b2ad4fdc04825c241f43e52352
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
 [Subsystems] Discovering subsystems at path D:/unity/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
@@ -32,6 +40,13 @@ Direct3D:
     VRAM:     8031 MB
     Driver:   27.21.14.5751
 Initialize mono
+<<<<<<< HEAD
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+=======
 Mono path[0] = 'D:/unity/2020.3.12f1/Editor/Data/Managed'
 Mono path[1] = 'D:/unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
@@ -204,3 +219,4 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+>>>>>>> 247552f1d8a777b2ad4fdc04825c241f43e52352

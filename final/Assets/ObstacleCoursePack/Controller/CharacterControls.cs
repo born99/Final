@@ -69,6 +69,7 @@ public class CharacterControls : MonoBehaviour {
 				Quaternion tr = Quaternion.LookRotation(targetDir); //Rotation of the character to where it moves
 				Quaternion targetRotation = Quaternion.Slerp(transform.rotation, tr, Time.deltaTime * rotateSpeed); //Rotate the character little by little
 				transform.rotation = targetRotation;
+				PlayFootSound();
 			}
 			else
             {
@@ -109,6 +110,7 @@ public class CharacterControls : MonoBehaviour {
 				if (IsGrounded() && Input.GetButton("Jump"))
 				{
 					rb.velocity = new Vector3(velocity.x, CalculateJumpVerticalSpeed(), velocity.z);
+					PlayJumpSound();
 				}
 			}
 			else
@@ -174,6 +176,7 @@ public class CharacterControls : MonoBehaviour {
 		pushForce = velocityF.magnitude;
 		pushDir = Vector3.Normalize(velocityF);
 		StartCoroutine(Decrease(velocityF.magnitude, time));
+		PlayHitSound();
 	}
 
 	public void LoadCheckPoint()
@@ -212,5 +215,45 @@ public class CharacterControls : MonoBehaviour {
 			isStuned = false;
 			canMove = true;
 		}
+	}
+	
+	void PlayFootSound()
+    {
+		StartCoroutine("PlayStepSound", footStepTimer);
+
+    }
+
+	IEnumerator PlayStepSound(float timer)
+    {
+		soundGenerator.audioSource.clip = soundGenerator.footStepSounds[0];
+
+		soundGenerator.audioSource.Play();
+		yield return new WaitForSeconds(timer);
+    }
+
+	void PlayJumpSound()
+    {
+		StartCoroutine("PlayJumpingSound", footStepTimer);
+	}
+
+	IEnumerator PlayJumpingSound(float timer)
+	{
+		soundGenerator.audioSource.clip = soundGenerator.footStepSounds[1];
+
+		soundGenerator.audioSource.Play();
+		yield return new WaitForSeconds(timer);
+	}
+
+	void PlayHitSound()
+	{
+		StartCoroutine("PlayHitingSound", footStepTimer);
+	}
+
+	IEnumerator PlayHitingSound(float timer)
+	{
+		soundGenerator.audioSource.clip = soundGenerator.footStepSounds[2];
+
+		soundGenerator.audioSource.Play();
+		yield return new WaitForSeconds(timer);
 	}
 }

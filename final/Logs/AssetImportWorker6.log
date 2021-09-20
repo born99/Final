@@ -1,0 +1,708 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16131 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Learning/SeniorYear/Game/test/FallGuys/Final/final
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+64760
+Successfully changed project path to: C:/Learning/SeniorYear/Game/test/FallGuys/Final/final
+C:/Learning/SeniorYear/Game/test/FallGuys/Final/final
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Learning/SeniorYear/Game/test/FallGuys/Final/final/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8065 MB
+    Driver:   27.20.100.8935
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003120 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.029 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009664 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.443 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1570 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.6 MB.
+System memory in use after: 100.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 4.748400 ms (FindLiveObjects: 0.331300 ms CreateObjectMapping: 0.134800 ms MarkObjects: 3.510000 ms  DeleteObjects: 0.769400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 22-Audio.wav
+  artifactKey: Guid(3a9cd2eed86bb634c9da9b5864798f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 22-Audio.wav using Guid(3a9cd2eed86bb634c9da9b5864798f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77cf936caba8e266dd662f48b1cfe25') in 0.583162 seconds 
+  Import took 0.591389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000798 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 4-Audio.wav
+  artifactKey: Guid(4901040e735fd2547870b06a27124c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 4-Audio.wav using Guid(4901040e735fd2547870b06a27124c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90570974409b17d661f8ee9a23d49bba') in 0.049268 seconds 
+  Import took 0.060281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020169 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 2-Audio.wav
+  artifactKey: Guid(59cd085e234f32e4daddd2e589174a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 2-Audio.wav using Guid(59cd085e234f32e4daddd2e589174a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be66ee25f3d22b91996fd603f636486a') in 0.084278 seconds 
+  Import took 0.099071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 14-Audio.wav
+  artifactKey: Guid(dc51086bc85dc5448b059b6487ce0e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 14-Audio.wav using Guid(dc51086bc85dc5448b059b6487ce0e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4624515ed41af9513cf4786e33792b1') in 0.083046 seconds 
+  Import took 0.091989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 17-Audio.wav
+  artifactKey: Guid(a829296e83128554cba9da342d83d361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 17-Audio.wav using Guid(a829296e83128554cba9da342d83d361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee7d0697ef30b49a0a21e5a079aa589') in 0.048571 seconds 
+  Import took 0.057861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001202 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 16-Audio.wav
+  artifactKey: Guid(50d72a013f13ce0488147b799a838890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 16-Audio.wav using Guid(50d72a013f13ce0488147b799a838890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cff462ad072dd94537c50bcf4b72fc6') in 0.084394 seconds 
+  Import took 0.101562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002902 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 3-Audio.wav
+  artifactKey: Guid(2f96d3d47551ed848be9307342dcd667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 3-Audio.wav using Guid(2f96d3d47551ed848be9307342dcd667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7161f29fcd1c355736d0c9f35f5d136e') in 0.074543 seconds 
+  Import took 0.086647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 7-Audio.wav
+  artifactKey: Guid(79a7606463e6a0748b531715f315489d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 7-Audio.wav using Guid(79a7606463e6a0748b531715f315489d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a21b87ce5d8d9380219a62972926b6') in 0.051743 seconds 
+  Import took 0.064369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 30-Audio.wav
+  artifactKey: Guid(592e7903575792e48aed4b7e5b699e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 30-Audio.wav using Guid(592e7903575792e48aed4b7e5b699e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9133c983e0171626b258c0ce2d830d5') in 0.065433 seconds 
+  Import took 0.071782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 5-Audio.wav
+  artifactKey: Guid(4dcd8f2dc477f5e4aa277ee503048ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 5-Audio.wav using Guid(4dcd8f2dc477f5e4aa277ee503048ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c11ef3db695a4b05c5c7482e10aa2d2') in 0.050296 seconds 
+  Import took 0.058809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 10-Audio.wav
+  artifactKey: Guid(e85ebefcaa228bc42adb2554e5a428d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 10-Audio.wav using Guid(e85ebefcaa228bc42adb2554e5a428d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca584bcdd33534a5dfa75cabf264969e') in 0.042181 seconds 
+  Import took 0.049070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 23-Audio.wav
+  artifactKey: Guid(80239785e252f734a942b4bd5c1b91e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 23-Audio.wav using Guid(80239785e252f734a942b4bd5c1b91e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee91be3511193be383e039e931344da4') in 0.041221 seconds 
+  Import took 0.047678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 24-Audio.wav
+  artifactKey: Guid(d1b0c91370b0bcb4fa83f9d084f31dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 24-Audio.wav using Guid(d1b0c91370b0bcb4fa83f9d084f31dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554d7fda6661f8e528fecf2c7606c083') in 0.043858 seconds 
+  Import took 0.051213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 12-Audio.wav
+  artifactKey: Guid(bd2e21727b290c94586e70231e309cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 12-Audio.wav using Guid(bd2e21727b290c94586e70231e309cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbbfcd043dca180a323d2cb84469530') in 0.054734 seconds 
+  Import took 0.062560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 13-Audio.wav
+  artifactKey: Guid(7e30146df5f9bb84d9d63ed8211311b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 13-Audio.wav using Guid(7e30146df5f9bb84d9d63ed8211311b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9b17adf1fd5dc84982ee6f778cb50c') in 0.043913 seconds 
+  Import took 0.050418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 27-Audio.wav
+  artifactKey: Guid(dc739d782ed6fe5439fb6de4a13f53bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 27-Audio.wav using Guid(dc739d782ed6fe5439fb6de4a13f53bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e103c301de5c91c2abd8bfa192c3df9') in 0.036843 seconds 
+  Import took 0.042720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 8-Audio.wav
+  artifactKey: Guid(aa859614ff9b2234e8547d93e1cd9e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 8-Audio.wav using Guid(aa859614ff9b2234e8547d93e1cd9e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6707f19897d91f8dc9580c98cc41d02a') in 0.035831 seconds 
+  Import took 0.041370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 28-Audio.wav
+  artifactKey: Guid(6cb3eace11794c84db4995aa0a617ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 28-Audio.wav using Guid(6cb3eace11794c84db4995aa0a617ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d6180405b8906df36845c76c59854f') in 0.033251 seconds 
+  Import took 0.038853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 6-Audio.wav
+  artifactKey: Guid(15b220b1b01e9d8469f3b754b8eb2a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 6-Audio.wav using Guid(15b220b1b01e9d8469f3b754b8eb2a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2f1bb6fff6af38eea427eee44d892d') in 0.033207 seconds 
+  Import took 0.039243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 26-Audio.wav
+  artifactKey: Guid(b224ea4077fd9804c825863a283d50a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 26-Audio.wav using Guid(b224ea4077fd9804c825863a283d50a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac702ee89e6d24eb37ed93a6e1e4c18b') in 0.034585 seconds 
+  Import took 0.041223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 11-Audio.wav
+  artifactKey: Guid(363fb6bde7237674c9ab1b4ea4db05a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 11-Audio.wav using Guid(363fb6bde7237674c9ab1b4ea4db05a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29dfd11761ed8426e7d8077913f2cec') in 0.029945 seconds 
+  Import took 0.035097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 19-Audio.wav
+  artifactKey: Guid(5d8455fb534849442ad490965ff71279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 19-Audio.wav using Guid(5d8455fb534849442ad490965ff71279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17cfa0e63c8f26b35a90d2f9cfdfb7a5') in 0.030394 seconds 
+  Import took 0.035456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 15-Audio.wav
+  artifactKey: Guid(bf247942e61355f4d9d1804c09c647ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 15-Audio.wav using Guid(bf247942e61355f4d9d1804c09c647ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9d8dff73b0443be7682f0edd85ca89') in 0.029141 seconds 
+  Import took 0.034769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 1-Audio.wav
+  artifactKey: Guid(18f1ff003e8fbdb44aba8266f6e1d168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 1-Audio.wav using Guid(18f1ff003e8fbdb44aba8266f6e1d168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a0ec4f1ee564663208d5bd43c75f77') in 0.021769 seconds 
+  Import took 0.026510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 21-Audio.wav
+  artifactKey: Guid(c88f941f0652e8048be78e94b6879648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 21-Audio.wav using Guid(c88f941f0652e8048be78e94b6879648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cd256a86ab6e0342c27654fe97c8b68') in 0.030824 seconds 
+  Import took 0.035864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 29-Audio.wav
+  artifactKey: Guid(4437bc80104f4f84a9149c54a918b984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 29-Audio.wav using Guid(4437bc80104f4f84a9149c54a918b984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1664ae2690cf8f9a3a294aedbd4c6e') in 0.028599 seconds 
+  Import took 0.033530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 9-Audio.wav
+  artifactKey: Guid(7a1ca87fc8b38af43bd269e557438cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 9-Audio.wav using Guid(7a1ca87fc8b38af43bd269e557438cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27ae647380958d5cb7f159105cbd819') in 0.027122 seconds 
+  Import took 0.031727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 18-Audio.wav
+  artifactKey: Guid(5a7bf85c9d703074db7e82ff2ce16e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 18-Audio.wav using Guid(5a7bf85c9d703074db7e82ff2ce16e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4c8d80bbae9015e9056ada38fcf612') in 0.027404 seconds 
+  Import took 0.032182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 20-Audio.wav
+  artifactKey: Guid(f4eb0a209807fbb40bd0759085f6f882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 20-Audio.wav using Guid(f4eb0a209807fbb40bd0759085f6f882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7aebb83c044a56996bfea886ba02e73') in 0.028245 seconds 
+  Import took 0.033538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 25-Audio.wav
+  artifactKey: Guid(07902d35c76dec04495ae89be0bca886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass/Grass1 25-Audio.wav using Guid(07902d35c76dec04495ae89be0bca886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b48135fb5daa8b352d9866608a98b57') in 0.026379 seconds 
+  Import took 0.030916 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2046.
+Total: 2.997700 ms (FindLiveObjects: 0.156600 ms CreateObjectMapping: 0.049700 ms MarkObjects: 2.430600 ms  DeleteObjects: 0.359800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 881.688351 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/grass
+  artifactKey: Guid(49dce64b80831a24691e86adb09dfa05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/grass using Guid(49dce64b80831a24691e86adb09dfa05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96145ea4f083702c9acc9f7108ea8cc5') in 0.008138 seconds 
+  Import took 0.012213 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.680 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.6 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2049.
+Total: 2.817500 ms (FindLiveObjects: 0.198100 ms CreateObjectMapping: 0.068900 ms MarkObjects: 2.073700 ms  DeleteObjects: 0.475700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004999 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2052.
+Total: 2.275100 ms (FindLiveObjects: 0.136100 ms CreateObjectMapping: 0.044100 ms MarkObjects: 1.703500 ms  DeleteObjects: 0.390500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003219 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2055.
+Total: 2.264300 ms (FindLiveObjects: 0.164900 ms CreateObjectMapping: 0.054800 ms MarkObjects: 1.637600 ms  DeleteObjects: 0.405900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2058.
+Total: 2.473600 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.051200 ms MarkObjects: 1.843700 ms  DeleteObjects: 0.406900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2061.
+Total: 2.195400 ms (FindLiveObjects: 0.135500 ms CreateObjectMapping: 0.042300 ms MarkObjects: 1.606400 ms  DeleteObjects: 0.410300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004057 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2064.
+Total: 4.281900 ms (FindLiveObjects: 0.222600 ms CreateObjectMapping: 0.170200 ms MarkObjects: 3.138000 ms  DeleteObjects: 0.749500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008064 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.665 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2067.
+Total: 2.600300 ms (FindLiveObjects: 0.168200 ms CreateObjectMapping: 0.061500 ms MarkObjects: 1.884600 ms  DeleteObjects: 0.484900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003576 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2070.
+Total: 2.492400 ms (FindLiveObjects: 0.182500 ms CreateObjectMapping: 0.050100 ms MarkObjects: 1.831200 ms  DeleteObjects: 0.427700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.4 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2073.
+Total: 3.098300 ms (FindLiveObjects: 0.200400 ms CreateObjectMapping: 0.061300 ms MarkObjects: 2.343300 ms  DeleteObjects: 0.491500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2076.
+Total: 2.137100 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.520100 ms  DeleteObjects: 0.430100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.7 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2079.
+Total: 2.125800 ms (FindLiveObjects: 0.159000 ms CreateObjectMapping: 0.054200 ms MarkObjects: 1.507500 ms  DeleteObjects: 0.404300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1534 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.8 MB.
+System memory in use after: 100.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2082.
+Total: 2.148000 ms (FindLiveObjects: 0.140600 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.558300 ms  DeleteObjects: 0.402800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
