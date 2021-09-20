@@ -49,7 +49,7 @@ cd '.\Final\Build and Run\'
 * Mostly using free assets, the technique in this project does not have many highlights.
 
 ## Demo 
-* [Youtube Demo](https://www.youtube.com/watch?v=jn3pMAl4tV0)
+* [Youtube Demo](https://youtu.be/LUhfGoJTe1w)
 
 ## Unity Version
 * Available on Unity version 20.3.10f1
